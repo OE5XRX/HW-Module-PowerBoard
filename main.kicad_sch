@@ -5745,7 +5745,7 @@
 			)
 		)
 		(instances
-			(project "power"
+			(project "main"
 				(path "/f29935ff-76ad-48dd-a9d8-f60fd99054e1"
 					(page "4")
 				)
@@ -5857,7 +5857,7 @@
 			)
 		)
 		(instances
-			(project "power"
+			(project "main"
 				(path "/f29935ff-76ad-48dd-a9d8-f60fd99054e1"
 					(page "3")
 				)
@@ -5919,7 +5919,7 @@
 			)
 		)
 		(instances
-			(project "power"
+			(project "main"
 				(path "/f29935ff-76ad-48dd-a9d8-f60fd99054e1"
 					(page "2")
 				)

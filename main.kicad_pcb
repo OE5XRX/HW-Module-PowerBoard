@@ -3482,7 +3482,7 @@
 			(uuid "246e1c42-6412-4aa7-80e0-fbd9658c5e89")
 		)
 		(embedded_fonts no)
-		(model "footprints/XT60PW-M.step"
+		(model "${KIPRJMOD}/3d-models/XT60PW-M.step"
 			(offset
 				(xyz 3.6 6 0)
 			)
@@ -10477,7 +10477,7 @@
 			)
 		)
 	)
-	(footprint "main.ki:WE-XHMI_6060"
+	(footprint "PRJ:WE-XHMI_6060"
 		(layer "F.Cu")
 		(uuid "b0ab16ca-2c0f-4e64-a1bb-36290c2a1612")
 		(at 153.543 105.156)
@@ -12466,7 +12466,7 @@
 			)
 		)
 	)
-	(footprint "main.ki:FUSE_01530007Z"
+	(footprint "PRJ:FUSE_01530007Z"
 		(layer "F.Cu")
 		(uuid "ce55af31-14c7-45ab-83ee-d385ae098b80")
 		(at 104.2329 80.518 -90)
@@ -12889,7 +12889,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "main.ki:PCN10C-20S-2.54DS"
+	(footprint "PRJ:PCN10C-20S-2.54DS"
 		(layer "F.Cu")
 		(uuid "d5fd2985-dc8f-427c-9946-9e495313d58a")
 		(at 193.294 79.21 -90)
@@ -13822,7 +13822,7 @@
 			(uuid "43487c46-1a50-4ad3-be93-9afd5141ac51")
 		)
 		(embedded_fonts no)
-		(model "footprints//PCN10C-20S-2.54DS.stp"
+		(model "${KIPRJMOD}/3d-models/PCN10C-20S-2.54DS.stp"
 			(offset
 				(xyz -71.7 1.2 8.3)
 			)
