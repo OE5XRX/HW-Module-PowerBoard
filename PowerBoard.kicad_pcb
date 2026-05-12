@@ -424,7 +424,7 @@
 		(property ki_fp_filters "*Fuse*")
 		(path "/f2994666-280a-4a98-9e28-330aaba87ce6")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -8.636 4.572)
@@ -1658,7 +1658,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/555d8e40-af41-4f5e-956a-cea11c75a7e8")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1 -0.96)
@@ -2067,7 +2067,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/df999db3-7087-40c6-8ce3-d5dd370ce265")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -2354,7 +2354,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/0110e4c1-453e-41d4-8d9c-59468bc248ec")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.65 -2.26)
@@ -2757,7 +2757,7 @@
 		(property ki_fp_filters "*Fuse*")
 		(path "/b2913416-7c92-48b7-9ea1-d88758f30f9f")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -8.636 4.572)
@@ -3233,7 +3233,7 @@
 		)
 		(path "/766da13f-a9ee-4bc3-81f8-b04a7fcbf722")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 11.35 -16.35)
@@ -5540,7 +5540,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/232daf58-0468-4f94-bfdb-9142284c844d")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -9937,7 +9937,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/58b43aa4-ecd4-4ec1-8b8d-be6f0ac00237")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -10324,7 +10324,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/58f29570-cd55-43ce-bebf-bae51024406d")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.65 -2.26)
@@ -11946,7 +11946,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c02d7fbe-5053-4c1d-80c7-9b6cd4098369")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -12716,7 +12716,7 @@
 		(property ki_fp_filters "*Fuse*")
 		(path "/bacd5a90-a717-4cf8-8865-58ab1d127792")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -8.636 4.572)
@@ -13143,7 +13143,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/db791c8f-58d8-4641-b0d1-270bc623f7c7")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -10.12 2.54)
@@ -14088,7 +14088,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ec858325-386e-4cb0-a385-856da277a7fb")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -14488,7 +14488,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1140628f-bf74-4393-8d3d-e2b75985af35")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "PowerBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1 -0.96)
