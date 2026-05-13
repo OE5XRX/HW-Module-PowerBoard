@@ -29,7 +29,7 @@
   },"4": {
     "doc": "Power",
     "title": "Messung (I²C)",
-    "content": "Beide Rails sind über je einen INA226 am I²C-Bus messbar: . | Rail | I²C-Adresse | Shunt | Strom-Vollausschlag | Strom-Auflösung | . | +12V | 0x41 (0b1000001) | 10 mΩ | ≈ 8.19 A (Vshunt,max = 81.92 mV) | 125 µA / LSB | . | +5V | 0x40 (0b1000000) | 10 mΩ | ≈ 8.19 A | 125 µA / LSB | . Der INA226 liefert pro Adresse Bus-Spannung (in 1.25 mV-Schritten), Shunt-Spannung und einen integrierten Strom-Wert. Konfigurations- und Lese-Beispiele siehe INA226-Datenblatt. ",
+    "content": "Beide Rails sind über je einen INA226 am I²C-Bus messbar: . | Rail | I²C-Adresse | Shunt | Strom-Vollausschlag | . | +12V | 0x41 (0b1000001) | 10 mΩ | ≈ 8.19 A (Vshunt,max = 81.92 mV) | . | +5V | 0x40 (0b1000000) | 10 mΩ | ≈ 8.19 A | . Der INA226 liefert pro Adresse Bus-Spannung (in 1.25 mV-Schritten), Shunt-Spannung (2.5 µV/LSB) und einen integrierten Strom-Wert. Strom-Auflösung ist konfigurierbar über das CALIBRATION-Register (Treiber-Setup): Current_LSB = max_expected_current / 32768. Bei der maximal möglichen Stromtragfähigkeit des 10-mΩ-Shunts (~8.19 A) entspricht das ≈ 250 µA/LSB. Geringere Current_LSB-Werte erhöhen die Auflösung, begrenzen aber den Strommessbereich proportional. Konfigurations-Beispiele siehe INA226-Datenblatt. ",
     "url": "/#messung-ic",
     
     "relUrl": "/#messung-ic"
