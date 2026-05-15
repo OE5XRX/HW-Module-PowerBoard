@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "f29935ff-76ad-48dd-a9d8-f60fd99054e1")
 	(paper "A4")
+	(title_block
+		(title "Power")
+		(rev "<<VERSION>>")
+		(company "Amateurfunkclub für Remote Stationen")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x10_Row_Letter_First"
 			(pin_names

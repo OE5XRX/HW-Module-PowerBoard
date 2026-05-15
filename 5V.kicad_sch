@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "7a59f0d0-0033-40bc-a1c4-1d4ae9f9acf2")
 	(paper "A4")
+	(title_block
+		(title "5V Buck Converter")
+		(rev "<<VERSION>>")
+		(company "Amateurfunkclub für Remote Stationen")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
