@@ -14691,7 +14691,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "<<HASH>>"
+	(gr_text "<<VERSION>>"
 		(at 144.526 124.841 0)
 		(layer "F.SilkS")
 		(uuid "ce3135f0-7196-4c90-9a59-c71a3302372b")
