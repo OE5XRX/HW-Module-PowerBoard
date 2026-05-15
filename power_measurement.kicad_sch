@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "dde21f85-3c5e-4e74-9187-b7b4b66850c3")
 	(paper "A4")
+	(title_block
+		(title "Power Measurement")
+		(rev "<<VERSION>>")
+		(company "Amateurfunkclub für Remote Stationen")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
